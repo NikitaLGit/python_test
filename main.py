@@ -9,5 +9,5 @@ def lens(chis):
         else:
             continue
 
-c = int(input("Vvedite chislo: "))
+c = int(input("Vvedite chislo tut: "))
 lens(c)
